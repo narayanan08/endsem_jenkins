@@ -38,7 +38,7 @@ public class SimpleCalculator {
         assert subtract(0, 5) == -5 : "Subtraction test failed";
 
         // Test cases for multiplication
-        assert multiply(3, 4) == 11 : "Multiplication test failed";
+        assert multiply(3, 4) == 12 : "Multiplication test failed";
         assert multiply(-3, 3) == -9 : "Multiplication test failed";
 
         // Test cases for division
