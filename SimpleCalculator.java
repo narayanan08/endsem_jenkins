@@ -12,6 +12,7 @@ public class SimpleCalculator {
 
     // Method to multiply two numbers
     public static int multiply(int a, int b) {
+        System.out.println("Hello");
         return a * b;
     }
 
